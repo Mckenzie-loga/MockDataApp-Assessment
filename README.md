@@ -20,6 +20,7 @@ Step 2: Install Dependencies
 
 Install all required packages using npm install.
 This includes React Native, Expo, TypeScript, and other dependencies.
+type npm install in the terminal
 
 Step 3: Start the App
 
